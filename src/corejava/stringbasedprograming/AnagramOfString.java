@@ -1,4 +1,4 @@
-package corejava.stringbasedprograming;
+ package corejava.stringbasedprograming;
 
 import java.util.Arrays;
 
